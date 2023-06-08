@@ -1,0 +1,3 @@
+[submodule "extern/baobzi"]
+	path = extern/baobzi
+	url = https://github.com/flatironinstitute/baobzi.git
